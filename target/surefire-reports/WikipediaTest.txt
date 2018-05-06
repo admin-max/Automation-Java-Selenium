@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: WikipediaTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.754 sec - in WikipediaTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 29.151 sec - in WikipediaTest

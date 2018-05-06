@@ -15,7 +15,7 @@ public class ArticlePage extends AbstractPage {
 	By periodicTableLocator = By.cssSelector(".mw-collapsible-content");
 	By rowLocator = By.cssSelector("tr");
 	By cellLocator = By.cssSelector("span.nounderlines");
-	By elementWeightLocator = By.cssSelector(".nounderlines> a> span > span:nth-child(2)");
+	By elementWeightLocator = By.cssSelector(".nounderlines> a > span > span:nth-child(2)");
 	By elementNameLocator = By.cssSelector("a > span > span:nth-child(1)");
 
 	public void verifyPage() {
@@ -130,12 +130,14 @@ public class ArticlePage extends AbstractPage {
 				
 				
 				WebElement weElementWeight = weCell.findElement(By.cssSelector("span:nth-child(2)"));
-				WebElement weElementName = weCell.findElement(By.cssSelector("span:first-child"));
+				WebElement weElementName = weCell.findElement(elementNameLocator);
 				
-				String elementName = weElementName.getAttribute("textContent").split("[0-9]")[0].replaceAll("[^A-Za-z]", "");
+		//		String elementName = weElementName.getAttribute("textContent").split("[0-9]")[0].replaceAll("[^A-Za-z]", "");
 
 				
-				LOGGER.info(weElementWeight.getAttribute("textContent") + " - " + elementName);
+				LOGGER.info(weElementWeight.getAttribute("textContent") + " - " + weElementName.getAttribute("textContent").replaceAll("[^A-Za-z]", ""));
+				
+		//		LOGGER.info(weElementWeight.getAttribute("textContent") + " - " + elementName);
 
 			}
 			rowIndex++;

@@ -273,3 +273,800 @@
 2018-05-05 19:37:18 [INFO ] FrameworkBase:20 - ====================================
 2018-05-05 19:37:19 [INFO ] FrameworkBase:19 - Test has finished
 2018-05-05 19:37:19 [INFO ] FrameworkBase:20 - ====================================
+2018-05-05 21:13:45 [INFO ] FrameworkBase:12 - Test starting...
+2018-05-05 21:13:45 [INFO ] DriverManager:29 - Starting driver
+2018-05-05 21:13:48 [INFO ] DriverManager:45 - Chrome browser requested
+2018-05-05 21:13:49 [INFO ] FrontPage:32 - Opening page: https://www.wikipedia.org/
+2018-05-05 21:13:51 [INFO ] FrontPage:35 - Calling verifyPage()
+2018-05-05 21:13:51 [INFO ] FrontPage:25 - Validating the page was loaded
+2018-05-05 21:13:51 [INFO ] FrontPage:33 - Selecting search language: English
+2018-05-05 21:13:51 [INFO ] FrontPage:43 - Locating search bar and typing query "Periodic Table"
+2018-05-05 21:13:54 [INFO ] ArticlePage:22 - Validating the page was loaded
+2018-05-05 21:13:54 [INFO ] ArticlePage:110 - Printing elements of the first 7 rows in the console per row
+2018-05-05 21:13:54 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:13:54 [INFO ] ArticlePage:121 - Row 1
+2018-05-05 21:13:54 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:13:54 [INFO ] ArticlePage:138 - 1 - Hydrogen
+2018-05-05 21:13:54 [INFO ] ArticlePage:138 - 2 - Helium
+2018-05-05 21:13:54 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:13:54 [INFO ] ArticlePage:121 - Row 2
+2018-05-05 21:13:54 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:13:54 [INFO ] ArticlePage:138 - 3 - Lithium
+2018-05-05 21:13:54 [INFO ] ArticlePage:138 - 4 - Beryllium
+2018-05-05 21:13:54 [INFO ] ArticlePage:138 - 5 - Boron
+2018-05-05 21:13:54 [INFO ] ArticlePage:138 - 6 - Carbon
+2018-05-05 21:13:54 [INFO ] ArticlePage:138 - 7 - Nitrogen
+2018-05-05 21:13:54 [INFO ] ArticlePage:138 - 8 - Oxygen
+2018-05-05 21:13:54 [INFO ] ArticlePage:138 - 9 - Fluorine
+2018-05-05 21:13:54 [INFO ] ArticlePage:138 - 10 - Neon
+2018-05-05 21:13:54 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:13:54 [INFO ] ArticlePage:121 - Row 3
+2018-05-05 21:13:54 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:13:54 [INFO ] ArticlePage:138 - 11 - Sodium
+2018-05-05 21:13:55 [INFO ] ArticlePage:138 - 12 - Magnesium
+2018-05-05 21:13:55 [INFO ] ArticlePage:138 - 13 - Aluminium
+2018-05-05 21:13:55 [INFO ] ArticlePage:138 - 14 - Silicon
+2018-05-05 21:13:55 [INFO ] ArticlePage:138 - 15 - Phosphorus
+2018-05-05 21:13:55 [INFO ] ArticlePage:138 - 16 - Sulfur
+2018-05-05 21:13:55 [INFO ] ArticlePage:138 - 17 - Chlorine
+2018-05-05 21:13:55 [INFO ] ArticlePage:138 - 18 - Argon
+2018-05-05 21:13:55 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:13:55 [INFO ] ArticlePage:121 - Row 4
+2018-05-05 21:13:55 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:13:55 [INFO ] ArticlePage:138 - 19 - Potassium
+2018-05-05 21:13:55 [INFO ] ArticlePage:138 - 20 - Calcium
+2018-05-05 21:13:55 [INFO ] ArticlePage:138 - 21 - Scandium
+2018-05-05 21:13:55 [INFO ] ArticlePage:138 - 22 - Titanium
+2018-05-05 21:13:55 [INFO ] ArticlePage:138 - 23 - Vanadium
+2018-05-05 21:13:55 [INFO ] ArticlePage:138 - 24 - Chromium
+2018-05-05 21:13:55 [INFO ] ArticlePage:138 - 25 - Manganese
+2018-05-05 21:13:56 [INFO ] ArticlePage:138 - 26 - Iron
+2018-05-05 21:13:56 [INFO ] ArticlePage:138 - 27 - Cobalt
+2018-05-05 21:13:56 [INFO ] ArticlePage:138 - 28 - Nickel
+2018-05-05 21:13:56 [INFO ] ArticlePage:138 - 29 - Copper
+2018-05-05 21:13:56 [INFO ] ArticlePage:138 - 30 - Zinc
+2018-05-05 21:13:56 [INFO ] ArticlePage:138 - 31 - Gallium
+2018-05-05 21:13:56 [INFO ] ArticlePage:138 - 32 - Germanium
+2018-05-05 21:13:56 [INFO ] ArticlePage:138 - 33 - Arsenic
+2018-05-05 21:13:56 [INFO ] ArticlePage:138 - 34 - Selenium
+2018-05-05 21:13:56 [INFO ] ArticlePage:138 - 35 - Bromine
+2018-05-05 21:13:56 [INFO ] ArticlePage:138 - 36 - Krypton
+2018-05-05 21:13:56 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:13:56 [INFO ] ArticlePage:121 - Row 5
+2018-05-05 21:13:56 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:13:56 [INFO ] ArticlePage:138 - 37 - Rubidium
+2018-05-05 21:13:56 [INFO ] ArticlePage:138 - 38 - Strontium
+2018-05-05 21:13:56 [INFO ] ArticlePage:138 - 39 - Yttrium
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 40 - Zirconium
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 41 - Niobium
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 42 - Molybdenum
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 43 - Technetium
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 44 - Ruthenium
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 45 - Rhodium
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 46 - Palladium
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 47 - Silver
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 48 - Cadmium
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 49 - Indium
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 50 - Tin
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 51 - Antimony
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 52 - Tellurium
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 53 - Iodine
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 54 - Xenon
+2018-05-05 21:13:57 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:13:57 [INFO ] ArticlePage:121 - Row 6
+2018-05-05 21:13:57 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 55 - Caesium
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 56 - Barium
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 57 - Lanthanum
+2018-05-05 21:13:57 [INFO ] ArticlePage:138 - 72 - Hafnium
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 73 - Tantalum
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 74 - Tungsten
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 75 - Rhenium
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 76 - Osmium
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 77 - Iridium
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 78 - Platinum
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 79 - Gold
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 80 - Mercury
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 81 - Thallium
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 82 - Lead
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 83 - Bismuth
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 84 - Polonium
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 85 - Astatine
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 86 - Radon
+2018-05-05 21:13:58 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:13:58 [INFO ] ArticlePage:121 - Row 7
+2018-05-05 21:13:58 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 87 - Francium
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 88 - Radium
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 89 - Actinium
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 104 - Rutherfordium
+2018-05-05 21:13:58 [INFO ] ArticlePage:138 - 105 - Dubnium
+2018-05-05 21:13:59 [INFO ] ArticlePage:138 - 106 - Seaborgium
+2018-05-05 21:13:59 [INFO ] ArticlePage:138 - 107 - Bohrium
+2018-05-05 21:13:59 [INFO ] ArticlePage:138 - 108 - Hassium
+2018-05-05 21:13:59 [INFO ] ArticlePage:138 - 109 - Meitnerium
+2018-05-05 21:13:59 [INFO ] ArticlePage:138 - 110 - Darmstadtium
+2018-05-05 21:13:59 [INFO ] ArticlePage:138 - 111 - Roentgenium
+2018-05-05 21:13:59 [INFO ] ArticlePage:138 - 112 - Copernicium
+2018-05-05 21:13:59 [INFO ] ArticlePage:138 - 113 - Nihonium
+2018-05-05 21:13:59 [INFO ] ArticlePage:138 - 114 - Flerovium
+2018-05-05 21:13:59 [INFO ] ArticlePage:138 - 115 - Moscovium
+2018-05-05 21:13:59 [INFO ] ArticlePage:138 - 116 - Livermorium
+2018-05-05 21:13:59 [INFO ] ArticlePage:138 - 117 - Tennessine
+2018-05-05 21:13:59 [INFO ] ArticlePage:138 - 118 - Oganesson
+2018-05-05 21:13:59 [INFO ] ArticlePage:145 - ====================================
+2018-05-05 21:14:04 [INFO ] DriverManager:71 - Closing the driver
+2018-05-05 21:14:06 [INFO ] FrameworkBase:19 - Test has finished
+2018-05-05 21:14:06 [INFO ] FrameworkBase:20 - ====================================
+2018-05-05 21:19:54 [INFO ] FrameworkBase:12 - Test starting...
+2018-05-05 21:19:54 [INFO ] DriverManager:29 - Starting driver
+2018-05-05 21:19:57 [INFO ] DriverManager:45 - Chrome browser requested
+2018-05-05 21:19:58 [INFO ] FrontPage:32 - Opening page: https://www.wikipedia.org/
+2018-05-05 21:19:59 [INFO ] FrontPage:35 - Calling verifyPage()
+2018-05-05 21:19:59 [INFO ] FrontPage:25 - Validating the page was loaded
+2018-05-05 21:19:59 [INFO ] FrontPage:33 - Selecting search language: English
+2018-05-05 21:19:59 [INFO ] FrontPage:43 - Locating search bar and typing query "Periodic Table"
+2018-05-05 21:20:02 [INFO ] ArticlePage:22 - Validating the page was loaded
+2018-05-05 21:20:02 [INFO ] ArticlePage:110 - Printing elements of the first 7 rows in the console per row
+2018-05-05 21:20:02 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:20:02 [INFO ] ArticlePage:121 - Row 1
+2018-05-05 21:20:02 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:20:02 [INFO ] ArticlePage:138 - 1 - Hydrogen
+2018-05-05 21:20:02 [INFO ] ArticlePage:138 - 2 - Helium
+2018-05-05 21:20:02 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:20:02 [INFO ] ArticlePage:121 - Row 2
+2018-05-05 21:20:02 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:20:02 [INFO ] ArticlePage:138 - 3 - Lithium
+2018-05-05 21:20:02 [INFO ] ArticlePage:138 - 4 - Beryllium
+2018-05-05 21:20:02 [INFO ] ArticlePage:138 - 5 - Boron
+2018-05-05 21:20:02 [INFO ] ArticlePage:138 - 6 - Carbon
+2018-05-05 21:20:02 [INFO ] ArticlePage:138 - 7 - Nitrogen
+2018-05-05 21:20:02 [INFO ] ArticlePage:138 - 8 - Oxygen
+2018-05-05 21:20:02 [INFO ] ArticlePage:138 - 9 - Fluorine
+2018-05-05 21:20:02 [INFO ] ArticlePage:138 - 10 - Neon
+2018-05-05 21:20:02 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:20:02 [INFO ] ArticlePage:121 - Row 3
+2018-05-05 21:20:02 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:20:02 [INFO ] ArticlePage:138 - 11 - Sodium
+2018-05-05 21:20:02 [INFO ] ArticlePage:138 - 12 - Magnesium
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 13 - Aluminium
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 14 - Silicon
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 15 - Phosphorus
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 16 - Sulfur
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 17 - Chlorine
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 18 - Argon
+2018-05-05 21:20:03 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:20:03 [INFO ] ArticlePage:121 - Row 4
+2018-05-05 21:20:03 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 19 - Potassium
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 20 - Calcium
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 21 - Scandium
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 22 - Titanium
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 23 - Vanadium
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 24 - Chromium
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 25 - Manganese
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 26 - Iron
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 27 - Cobalt
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 28 - Nickel
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 29 - Copper
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 30 - Zinc
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 31 - Gallium
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 32 - Germanium
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 33 - Arsenic
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 34 - Selenium
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 35 - Bromine
+2018-05-05 21:20:03 [INFO ] ArticlePage:138 - 36 - Krypton
+2018-05-05 21:20:03 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:20:03 [INFO ] ArticlePage:121 - Row 5
+2018-05-05 21:20:03 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 37 - Rubidium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 38 - Strontium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 39 - Yttrium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 40 - Zirconium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 41 - Niobium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 42 - Molybdenum
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 43 - Technetium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 44 - Ruthenium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 45 - Rhodium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 46 - Palladium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 47 - Silver
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 48 - Cadmium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 49 - Indium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 50 - Tin
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 51 - Antimony
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 52 - Tellurium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 53 - Iodine
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 54 - Xenon
+2018-05-05 21:20:04 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:20:04 [INFO ] ArticlePage:121 - Row 6
+2018-05-05 21:20:04 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 55 - Caesium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 56 - Barium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 57 - Lanthanum
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 72 - Hafnium
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 73 - Tantalum
+2018-05-05 21:20:04 [INFO ] ArticlePage:138 - 74 - Tungsten
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 75 - Rhenium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 76 - Osmium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 77 - Iridium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 78 - Platinum
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 79 - Gold
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 80 - Mercury
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 81 - Thallium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 82 - Lead
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 83 - Bismuth
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 84 - Polonium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 85 - Astatine
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 86 - Radon
+2018-05-05 21:20:05 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:20:05 [INFO ] ArticlePage:121 - Row 7
+2018-05-05 21:20:05 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 87 - Francium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 88 - Radium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 89 - Actinium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 104 - Rutherfordium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 105 - Dubnium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 106 - Seaborgium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 107 - Bohrium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 108 - Hassium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 109 - Meitnerium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 110 - Darmstadtium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 111 - Roentgenium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 112 - Copernicium
+2018-05-05 21:20:05 [INFO ] ArticlePage:138 - 113 - Nihonium
+2018-05-05 21:20:06 [INFO ] ArticlePage:138 - 114 - Flerovium
+2018-05-05 21:20:06 [INFO ] ArticlePage:138 - 115 - Moscovium
+2018-05-05 21:20:06 [INFO ] ArticlePage:138 - 116 - Livermorium
+2018-05-05 21:20:06 [INFO ] ArticlePage:138 - 117 - Tennessine
+2018-05-05 21:20:06 [INFO ] ArticlePage:138 - 118 - Oganesson
+2018-05-05 21:20:06 [INFO ] ArticlePage:145 - ====================================
+2018-05-05 21:20:11 [INFO ] DriverManager:71 - Closing the driver
+2018-05-05 21:20:13 [INFO ] FrameworkBase:19 - Test has finished
+2018-05-05 21:20:13 [INFO ] FrameworkBase:20 - ====================================
+2018-05-05 21:22:27 [INFO ] FrameworkBase:12 - Test starting...
+2018-05-05 21:22:27 [INFO ] FrameworkBase:12 - Test starting...
+2018-05-05 21:22:27 [INFO ] FrameworkBase:12 - Test starting...
+2018-05-05 21:22:27 [INFO ] DriverManager:29 - Starting driver
+2018-05-05 21:22:27 [INFO ] DriverManager:29 - Starting driver
+2018-05-05 21:22:27 [INFO ] DriverManager:29 - Starting driver
+2018-05-05 21:22:31 [INFO ] DriverManager:45 - Chrome browser requested
+2018-05-05 21:22:31 [INFO ] DriverManager:45 - Chrome browser requested
+2018-05-05 21:22:31 [INFO ] DriverManager:45 - Chrome browser requested
+2018-05-05 21:22:32 [INFO ] FrontPage:32 - Opening page: https://www.wikipedia.org/
+2018-05-05 21:22:32 [INFO ] FrontPage:32 - Opening page: https://www.wikipedia.org/
+2018-05-05 21:22:32 [INFO ] FrontPage:32 - Opening page: https://www.wikipedia.org/
+2018-05-05 21:22:34 [INFO ] FrontPage:35 - Calling verifyPage()
+2018-05-05 21:22:34 [INFO ] FrontPage:25 - Validating the page was loaded
+2018-05-05 21:22:34 [INFO ] FrontPage:33 - Selecting search language: English
+2018-05-05 21:22:34 [INFO ] FrontPage:35 - Calling verifyPage()
+2018-05-05 21:22:34 [INFO ] FrontPage:25 - Validating the page was loaded
+2018-05-05 21:22:34 [INFO ] FrontPage:33 - Selecting search language: English
+2018-05-05 21:22:35 [INFO ] FrontPage:35 - Calling verifyPage()
+2018-05-05 21:22:35 [INFO ] FrontPage:25 - Validating the page was loaded
+2018-05-05 21:22:35 [INFO ] FrontPage:43 - Locating search bar and typing query "Periodic Table"
+2018-05-05 21:22:35 [INFO ] FrontPage:33 - Selecting search language: English
+2018-05-05 21:22:35 [INFO ] FrontPage:43 - Locating search bar and typing query "Periodic Table"
+2018-05-05 21:22:35 [INFO ] FrontPage:43 - Locating search bar and typing query "Periodic Table"
+2018-05-05 21:22:41 [INFO ] ArticlePage:22 - Validating the page was loaded
+2018-05-05 21:22:41 [INFO ] ArticlePage:110 - Printing elements of the first 7 rows in the console per row
+2018-05-05 21:22:41 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:22:41 [INFO ] ArticlePage:121 - Row 1
+2018-05-05 21:22:41 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:22:41 [INFO ] ArticlePage:138 - 1 - Hydrogen
+2018-05-05 21:22:42 [INFO ] ArticlePage:138 - 2 - Helium
+2018-05-05 21:22:42 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:22:42 [INFO ] ArticlePage:121 - Row 2
+2018-05-05 21:22:42 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:22:42 [INFO ] ArticlePage:138 - 3 - Lithium
+2018-05-05 21:22:42 [INFO ] ArticlePage:22 - Validating the page was loaded
+2018-05-05 21:22:42 [INFO ] ArticlePage:22 - Validating the page was loaded
+2018-05-05 21:22:42 [INFO ] ArticlePage:138 - 4 - Beryllium
+2018-05-05 21:22:42 [INFO ] ArticlePage:28 - Verifying the Periodic Table has 118 elements
+2018-05-05 21:22:42 [INFO ] ArticlePage:64 - Asserting the sum of all elements weight is 7021
+2018-05-05 21:22:42 [INFO ] ArticlePage:33 - YES, the Periodic Table has 118 elements
+2018-05-05 21:22:42 [INFO ] ArticlePage:43 - Printing all elements atomic weight and name
+2018-05-05 21:22:42 [INFO ] ArticlePage:138 - 5 - Boron
+2018-05-05 21:22:42 [INFO ] ArticlePage:138 - 6 - Carbon
+2018-05-05 21:22:42 [INFO ] DriverManager:71 - Closing the driver
+2018-05-05 21:22:42 [INFO ] ArticlePage:138 - 7 - Nitrogen
+2018-05-05 21:22:42 [INFO ] ArticlePage:138 - 8 - Oxygen
+2018-05-05 21:22:42 [INFO ] ArticlePage:138 - 9 - Fluorine
+2018-05-05 21:22:42 [INFO ] ArticlePage:56 -  [hide]  - Hydrogen
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Overview - Helium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Grouping methods - Lithium
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 10 - Neon
+2018-05-05 21:22:43 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:22:43 [INFO ] ArticlePage:121 - Row 3
+2018-05-05 21:22:43 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Groups - Beryllium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Periods - Boron
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 11 - Sodium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Blocks - Carbon
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Metals, metalloids and nonmetals - Nitrogen
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Periodic trends and patterns - Oxygen
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 12 - Magnesium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Electron configuration - Fluorine
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Atomic radii - Neon
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 13 - Aluminium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Ionization energy - Sodium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Electronegativity - Magnesium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Electron affinity - Aluminium
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 14 - Silicon
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Metallic character - Silicon
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Linking or bridging groups - Phosphorus
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - History - Sulfur
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 15 - Phosphorus
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - First systemization attempts - Chlorine
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Mendeleev's table - Argon
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Second version and further development - Potassium
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 16 - Sulfur
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Different periodic tables - Calcium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - The long- or 32-column table - Scandium
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 17 - Chlorine
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Tables with different structures - Titanium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Open questions and controversies - Vanadium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Placement of hydrogen and helium - Chromium
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 18 - Argon
+2018-05-05 21:22:43 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:22:43 [INFO ] ArticlePage:121 - Row 4
+2018-05-05 21:22:43 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Group 3 and its elements in periods 6 and 7 - Manganese
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Lanthanum and actinium - Iron
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Lutetium and lawrencium - Cobalt
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 19 - Potassium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Lanthanides and actinides - Nickel
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Groups included in the transition metals - Copper
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Elements with unknown chemical properties - Zinc
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 20 - Calcium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Further periodic table extensions - Gallium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Element with the highest possible atomic number - Germanium
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 21 - Scandium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Optimal form - Arsenic
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - See also - Selenium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Notes - Bromine
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 22 - Titanium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - References - Krypton
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - Bibliography - Rubidium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - External links - Strontium
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 23 - Vanadium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - 1 - Yttrium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - 2 - Zirconium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - 3 - Niobium
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 24 - Chromium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - 4 - Molybdenum
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - 5 - Technetium
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - 6 - Ruthenium
+2018-05-05 21:22:43 [INFO ] ArticlePage:138 - 25 - Manganese
+2018-05-05 21:22:43 [INFO ] ArticlePage:56 - 7 - Rhodium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 8 - Palladium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 9 - Silver
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 26 - Iron
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 10 - Cadmium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 11 - Indium
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 27 - Cobalt
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 12 - Tin
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 13 - Antimony
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 14 - Tellurium
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 28 - Nickel
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 15 - Iodine
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 16 - Xenon
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 17 - Caesium
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 29 - Copper
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 18 - Barium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 19 - Lanthanum
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 30 - Zinc
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 20 - Hafnium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 21 - Tantalum
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 22 - Tungsten
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 31 - Gallium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 23 - Rhenium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 24 - Osmium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 25 - Iridium
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 32 - Germanium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 26 - Platinum
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 27 - Gold
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 28 - Mercury
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 33 - Arsenic
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 29 - Thallium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 30 - Lead
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 31 - Bismuth
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 34 - Selenium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 32 - Polonium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 33 - Astatine
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 34 - Radon
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 35 - Bromine
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 35 - Francium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 36 - Radium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 37 - Actinium
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 36 - Krypton
+2018-05-05 21:22:44 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:22:44 [INFO ] ArticlePage:121 - Row 5
+2018-05-05 21:22:44 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 38 - Rutherfordium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 39 - Dubnium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 40 - Seaborgium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 41 - Bohrium
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 37 - Rubidium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 42 - Hassium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 43 - Meitnerium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 44 - Darmstadtium
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 38 - Strontium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 45 - Roentgenium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 46 - Copernicium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 47 - Nihonium
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 39 - Yttrium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 48 - Flerovium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 49 - Moscovium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 50 - Livermorium
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 40 - Zirconium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 51 - Tennessine
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 52 - Oganesson
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 53 - Cerium
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 41 - Niobium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 54 - Praseodymium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 55 - Neodymium
+2018-05-05 21:22:44 [INFO ] FrameworkBase:19 - Test has finished
+2018-05-05 21:22:44 [INFO ] FrameworkBase:20 - ====================================
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 56 - Promethium
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 42 - Molybdenum
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 57 - Samarium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 72 - Europium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 73 - Gadolinium
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 43 - Technetium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 74 - Terbium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 75 - Dysprosium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 76 - Holmium
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 44 - Ruthenium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 77 - Erbium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 78 - Thulium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 79 - Ytterbium
+2018-05-05 21:22:44 [INFO ] ArticlePage:138 - 45 - Rhodium
+2018-05-05 21:22:44 [INFO ] ArticlePage:56 - 80 - Lutetium
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 81 - Thorium
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 82 - Protactinium
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 46 - Palladium
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 83 - Uranium
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 84 - Neptunium
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 85 - Plutonium
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 47 - Silver
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 86 - Americium
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 87 - Curium
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 88 - Berkelium
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 48 - Cadmium
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 89 - Californium
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 104 - Einsteinium
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 105 - Fermium
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 49 - Indium
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 106 - Mendelevium
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 107 - Nobelium
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 108 - Lawrencium
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 50 - Tin
+2018-05-05 21:22:45 [INFO ] ArticlePage:56 - 109 - h
+2018-05-05 21:22:45 [INFO ] DriverManager:71 - Closing the driver
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 51 - Antimony
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 52 - Tellurium
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 53 - Iodine
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 54 - Xenon
+2018-05-05 21:22:45 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:22:45 [INFO ] ArticlePage:121 - Row 6
+2018-05-05 21:22:45 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 55 - Caesium
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 56 - Barium
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 57 - Lanthanum
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 72 - Hafnium
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 73 - Tantalum
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 74 - Tungsten
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 75 - Rhenium
+2018-05-05 21:22:45 [INFO ] ArticlePage:138 - 76 - Osmium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 77 - Iridium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 78 - Platinum
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 79 - Gold
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 80 - Mercury
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 81 - Thallium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 82 - Lead
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 83 - Bismuth
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 84 - Polonium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 85 - Astatine
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 86 - Radon
+2018-05-05 21:22:46 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:22:46 [INFO ] ArticlePage:121 - Row 7
+2018-05-05 21:22:46 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 87 - Francium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 88 - Radium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 89 - Actinium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 104 - Rutherfordium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 105 - Dubnium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 106 - Seaborgium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 107 - Bohrium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 108 - Hassium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 109 - Meitnerium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 110 - Darmstadtium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 111 - Roentgenium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 112 - Copernicium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 113 - Nihonium
+2018-05-05 21:22:46 [INFO ] ArticlePage:138 - 114 - Flerovium
+2018-05-05 21:22:47 [INFO ] ArticlePage:138 - 115 - Moscovium
+2018-05-05 21:22:47 [INFO ] ArticlePage:138 - 116 - Livermorium
+2018-05-05 21:22:47 [INFO ] ArticlePage:138 - 117 - Tennessine
+2018-05-05 21:22:47 [INFO ] ArticlePage:138 - 118 - Oganesson
+2018-05-05 21:22:47 [INFO ] ArticlePage:145 - ====================================
+2018-05-05 21:22:47 [INFO ] FrameworkBase:19 - Test has finished
+2018-05-05 21:22:47 [INFO ] FrameworkBase:20 - ====================================
+2018-05-05 21:22:52 [INFO ] DriverManager:71 - Closing the driver
+2018-05-05 21:22:54 [INFO ] FrameworkBase:19 - Test has finished
+2018-05-05 21:22:54 [INFO ] FrameworkBase:20 - ====================================
+2018-05-05 21:24:42 [INFO ] FrameworkBase:12 - Test starting...
+2018-05-05 21:24:42 [INFO ] FrameworkBase:12 - Test starting...
+2018-05-05 21:24:42 [INFO ] FrameworkBase:12 - Test starting...
+2018-05-05 21:24:42 [INFO ] DriverManager:29 - Starting driver
+2018-05-05 21:24:42 [INFO ] DriverManager:29 - Starting driver
+2018-05-05 21:24:42 [INFO ] DriverManager:29 - Starting driver
+2018-05-05 21:24:46 [INFO ] DriverManager:45 - Chrome browser requested
+2018-05-05 21:24:46 [INFO ] DriverManager:45 - Chrome browser requested
+2018-05-05 21:24:46 [INFO ] DriverManager:45 - Chrome browser requested
+2018-05-05 21:24:47 [INFO ] FrontPage:32 - Opening page: https://www.wikipedia.org/
+2018-05-05 21:24:47 [INFO ] FrontPage:32 - Opening page: https://www.wikipedia.org/
+2018-05-05 21:24:47 [INFO ] FrontPage:32 - Opening page: https://www.wikipedia.org/
+2018-05-05 21:24:50 [INFO ] FrontPage:35 - Calling verifyPage()
+2018-05-05 21:24:50 [INFO ] FrontPage:25 - Validating the page was loaded
+2018-05-05 21:24:50 [INFO ] FrontPage:33 - Selecting search language: English
+2018-05-05 21:24:50 [INFO ] FrontPage:43 - Locating search bar and typing query "Periodic Table"
+2018-05-05 21:24:50 [INFO ] FrontPage:35 - Calling verifyPage()
+2018-05-05 21:24:50 [INFO ] FrontPage:25 - Validating the page was loaded
+2018-05-05 21:24:50 [INFO ] FrontPage:33 - Selecting search language: English
+2018-05-05 21:24:50 [INFO ] FrontPage:35 - Calling verifyPage()
+2018-05-05 21:24:50 [INFO ] FrontPage:25 - Validating the page was loaded
+2018-05-05 21:24:51 [INFO ] FrontPage:33 - Selecting search language: English
+2018-05-05 21:24:51 [INFO ] FrontPage:43 - Locating search bar and typing query "Periodic Table"
+2018-05-05 21:24:51 [INFO ] FrontPage:43 - Locating search bar and typing query "Periodic Table"
+2018-05-05 21:24:56 [INFO ] ArticlePage:22 - Validating the page was loaded
+2018-05-05 21:24:57 [INFO ] ArticlePage:64 - Asserting the sum of all elements weight is 7021
+2018-05-05 21:24:57 [INFO ] ArticlePage:22 - Validating the page was loaded
+2018-05-05 21:24:57 [INFO ] ArticlePage:28 - Verifying the Periodic Table has 118 elements
+2018-05-05 21:24:57 [INFO ] ArticlePage:33 - YES, the Periodic Table has 118 elements
+2018-05-05 21:24:57 [INFO ] ArticlePage:43 - Printing all elements atomic weight and name
+2018-05-05 21:24:57 [INFO ] ArticlePage:22 - Validating the page was loaded
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 1 - Hydrogen
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 2 - Helium
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 3 - Lithium
+2018-05-05 21:24:58 [INFO ] ArticlePage:110 - Printing elements of the first 7 rows in the console per row
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 4 - Beryllium
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 5 - Boron
+2018-05-05 21:24:58 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:24:58 [INFO ] ArticlePage:121 - Row 1
+2018-05-05 21:24:58 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 6 - Carbon
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 7 - Nitrogen
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 8 - Oxygen
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 9 - Fluorine
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 10 - Neon
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 11 - Sodium
+2018-05-05 21:24:58 [INFO ] ArticlePage:138 - 1 - Hydrogen
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 12 - Magnesium
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 13 - Aluminium
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 14 - Silicon
+2018-05-05 21:24:58 [INFO ] ArticlePage:138 - 2 - Helium
+2018-05-05 21:24:58 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:24:58 [INFO ] ArticlePage:121 - Row 2
+2018-05-05 21:24:58 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 15 - Phosphorus
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 16 - Sulfur
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 17 - Chlorine
+2018-05-05 21:24:58 [INFO ] ArticlePage:138 - 3 - Lithium
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 18 - Argon
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 19 - Potassium
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 20 - Calcium
+2018-05-05 21:24:58 [INFO ] ArticlePage:138 - 4 - Beryllium
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 21 - Scandium
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 22 - Titanium
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 23 - Vanadium
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 24 - Chromium
+2018-05-05 21:24:58 [INFO ] ArticlePage:138 - 5 - Boron
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 25 - Manganese
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 26 - Iron
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 27 - Cobalt
+2018-05-05 21:24:58 [INFO ] ArticlePage:138 - 6 - Carbon
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 28 - Nickel
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 29 - Copper
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 30 - Zinc
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 31 - Gallium
+2018-05-05 21:24:58 [INFO ] ArticlePage:138 - 7 - Nitrogen
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 32 - Germanium
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 33 - Arsenic
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 34 - Selenium
+2018-05-05 21:24:58 [INFO ] ArticlePage:138 - 8 - Oxygen
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 35 - Bromine
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 36 - Krypton
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 37 - Rubidium
+2018-05-05 21:24:58 [INFO ] ArticlePage:138 - 9 - Fluorine
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 38 - Strontium
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 39 - Yttrium
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 40 - Zirconium
+2018-05-05 21:24:58 [INFO ] ArticlePage:138 - 10 - Neon
+2018-05-05 21:24:58 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:24:58 [INFO ] ArticlePage:121 - Row 3
+2018-05-05 21:24:58 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 41 - Niobium
+2018-05-05 21:24:58 [INFO ] ArticlePage:56 - 42 - Molybdenum
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 43 - Technetium
+2018-05-05 21:24:59 [INFO ] ArticlePage:138 - 11 - Sodium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 44 - Ruthenium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 45 - Rhodium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 46 - Palladium
+2018-05-05 21:24:59 [INFO ] ArticlePage:138 - 12 - Magnesium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 47 - Silver
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 48 - Cadmium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 49 - Indium
+2018-05-05 21:24:59 [INFO ] ArticlePage:138 - 13 - Aluminium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 50 - Tin
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 51 - Antimony
+2018-05-05 21:24:59 [INFO ] ArticlePage:138 - 14 - Silicon
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 52 - Tellurium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 53 - Iodine
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 54 - Xenon
+2018-05-05 21:24:59 [INFO ] ArticlePage:138 - 15 - Phosphorus
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 55 - Caesium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 56 - Barium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 57 - Lanthanum
+2018-05-05 21:24:59 [INFO ] ArticlePage:138 - 16 - Sulfur
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 72 - Hafnium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 73 - Tantalum
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 74 - Tungsten
+2018-05-05 21:24:59 [INFO ] ArticlePage:138 - 17 - Chlorine
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 75 - Rhenium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 76 - Osmium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 77 - Iridium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 78 - Platinum
+2018-05-05 21:24:59 [INFO ] ArticlePage:138 - 18 - Argon
+2018-05-05 21:24:59 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:24:59 [INFO ] ArticlePage:121 - Row 4
+2018-05-05 21:24:59 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 79 - Gold
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 80 - Mercury
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 81 - Thallium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 82 - Lead
+2018-05-05 21:24:59 [INFO ] ArticlePage:138 - 19 - Potassium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 83 - Bismuth
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 84 - Polonium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 85 - Astatine
+2018-05-05 21:24:59 [INFO ] ArticlePage:138 - 20 - Calcium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 86 - Radon
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 87 - Francium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 88 - Radium
+2018-05-05 21:24:59 [INFO ] ArticlePage:138 - 21 - Scandium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 89 - Actinium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 104 - Rutherfordium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 105 - Dubnium
+2018-05-05 21:24:59 [INFO ] ArticlePage:138 - 22 - Titanium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 106 - Seaborgium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 107 - Bohrium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 108 - Hassium
+2018-05-05 21:24:59 [INFO ] ArticlePage:138 - 23 - Vanadium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 109 - Meitnerium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 110 - Darmstadtium
+2018-05-05 21:24:59 [INFO ] ArticlePage:138 - 24 - Chromium
+2018-05-05 21:24:59 [INFO ] ArticlePage:56 - 111 - Roentgenium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 112 - Copernicium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 113 - Nihonium
+2018-05-05 21:25:00 [INFO ] ArticlePage:138 - 25 - Manganese
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 114 - Flerovium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 115 - Moscovium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 116 - Livermorium
+2018-05-05 21:25:00 [INFO ] ArticlePage:138 - 26 - Iron
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 117 - Tennessine
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 118 - Oganesson
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 58 - Cerium
+2018-05-05 21:25:00 [INFO ] ArticlePage:138 - 27 - Cobalt
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 59 - Praseodymium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 60 - Neodymium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 61 - Promethium
+2018-05-05 21:25:00 [INFO ] ArticlePage:138 - 28 - Nickel
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 62 - Samarium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 63 - Europium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 64 - Gadolinium
+2018-05-05 21:25:00 [INFO ] ArticlePage:138 - 29 - Copper
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 65 - Terbium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 66 - Dysprosium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 67 - Holmium
+2018-05-05 21:25:00 [INFO ] ArticlePage:138 - 30 - Zinc
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 68 - Erbium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 69 - Thulium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 70 - Ytterbium
+2018-05-05 21:25:00 [INFO ] ArticlePage:138 - 31 - Gallium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 71 - Lutetium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 90 - Thorium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 91 - Protactinium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 92 - Uranium
+2018-05-05 21:25:00 [INFO ] ArticlePage:138 - 32 - Germanium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 93 - Neptunium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 94 - Plutonium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 95 - Americium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 96 - Curium
+2018-05-05 21:25:00 [INFO ] ArticlePage:138 - 33 - Arsenic
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 97 - Berkelium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 98 - Californium
+2018-05-05 21:25:00 [INFO ] ArticlePage:138 - 34 - Selenium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 99 - Einsteinium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 100 - Fermium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 101 - Mendelevium
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 102 - Nobelium
+2018-05-05 21:25:00 [INFO ] ArticlePage:138 - 35 - Bromine
+2018-05-05 21:25:00 [INFO ] ArticlePage:56 - 103 - Lawrencium
+2018-05-05 21:25:00 [INFO ] ArticlePage:59 - ====================================
+2018-05-05 21:25:00 [INFO ] ArticlePage:138 - 36 - Krypton
+2018-05-05 21:25:00 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:25:00 [INFO ] ArticlePage:121 - Row 5
+2018-05-05 21:25:00 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:25:01 [INFO ] ArticlePage:76 - YES, the sum of all elements weight is 7021
+2018-05-05 21:25:01 [INFO ] ArticlePage:84 - Asserting the name of the element with atomic weight of 34 is Selenium
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 37 - Rubidium
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 38 - Strontium
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 39 - Yttrium
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 40 - Zirconium
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 41 - Niobium
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 42 - Molybdenum
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 43 - Technetium
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 44 - Ruthenium
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 45 - Rhodium
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 46 - Palladium
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 47 - Silver
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 48 - Cadmium
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 49 - Indium
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 50 - Tin
+2018-05-05 21:25:01 [INFO ] ArticlePage:138 - 51 - Antimony
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 52 - Tellurium
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 53 - Iodine
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 54 - Xenon
+2018-05-05 21:25:02 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:25:02 [INFO ] ArticlePage:121 - Row 6
+2018-05-05 21:25:02 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:25:02 [INFO ] ArticlePage:95 - YES, the element with weight 34 found and its name is Selenium as expected
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 55 - Caesium
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 56 - Barium
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 57 - Lanthanum
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 72 - Hafnium
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 73 - Tantalum
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 74 - Tungsten
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 75 - Rhenium
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 76 - Osmium
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 77 - Iridium
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 78 - Platinum
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 79 - Gold
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 80 - Mercury
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 81 - Thallium
+2018-05-05 21:25:02 [INFO ] ArticlePage:138 - 82 - Lead
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 83 - Bismuth
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 84 - Polonium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 85 - Astatine
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 86 - Radon
+2018-05-05 21:25:03 [INFO ] ArticlePage:120 - ====================================
+2018-05-05 21:25:03 [INFO ] ArticlePage:121 - Row 7
+2018-05-05 21:25:03 [INFO ] ArticlePage:122 - ====================================
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 87 - Francium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 88 - Radium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 89 - Actinium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 104 - Rutherfordium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 105 - Dubnium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 106 - Seaborgium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 107 - Bohrium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 108 - Hassium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 109 - Meitnerium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 110 - Darmstadtium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 111 - Roentgenium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 112 - Copernicium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 113 - Nihonium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 114 - Flerovium
+2018-05-05 21:25:03 [INFO ] ArticlePage:138 - 115 - Moscovium
+2018-05-05 21:25:04 [INFO ] ArticlePage:138 - 116 - Livermorium
+2018-05-05 21:25:04 [INFO ] ArticlePage:138 - 117 - Tennessine
+2018-05-05 21:25:04 [INFO ] ArticlePage:138 - 118 - Oganesson
+2018-05-05 21:25:04 [INFO ] ArticlePage:145 - ====================================
+2018-05-05 21:25:05 [INFO ] DriverManager:71 - Closing the driver
+2018-05-05 21:25:08 [INFO ] FrameworkBase:19 - Test has finished
+2018-05-05 21:25:08 [INFO ] FrameworkBase:20 - ====================================
+2018-05-05 21:25:09 [INFO ] DriverManager:71 - Closing the driver
+2018-05-05 21:25:09 [INFO ] DriverManager:71 - Closing the driver
+2018-05-05 21:25:11 [INFO ] FrameworkBase:19 - Test has finished
+2018-05-05 21:25:11 [INFO ] FrameworkBase:20 - ====================================
+2018-05-05 21:25:11 [INFO ] FrameworkBase:19 - Test has finished
+2018-05-05 21:25:11 [INFO ] FrameworkBase:20 - ====================================
